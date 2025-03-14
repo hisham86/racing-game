@@ -4,9 +4,9 @@ A modern isometric racing game built with Next.js, TypeScript, and TailwindCSS.
 
 Try it now ➡️ https://v0-new-project-l5sg7kvl3s1.vercel.app/
 
-![Image Alt](https://github.com/hisham86/lucky-draw/blob/4d0034f4e06c8d9e9dc3acd4e78a12b2018cb478/lucky.jpeg)
+![Image Alt](https://github.com/hisham86/racing-game/blob/71d95ddf172cf5a3e3d879f997cf396c5c5e1483/racing%20main%20menu.png)
 
-![Image Alt](https://github.com/hisham86/lucky-draw/blob/4d0034f4e06c8d9e9dc3acd4e78a12b2018cb478/lucky.jpeg)
+![Image Alt](https://github.com/hisham86/racing-game/blob/71d95ddf172cf5a3e3d879f997cf396c5c5e1483/racing%20game.png)
 
 ## Features
 
